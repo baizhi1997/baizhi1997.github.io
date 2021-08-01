@@ -6,4 +6,4 @@ title: 支持一下
 
 如果觉得我的博客对你有帮助，可以请我喝杯咖啡hhh
 
-![](/assets/img/path.jpg)
+![](/assets/img/收款码.jpg)
