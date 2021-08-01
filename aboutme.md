@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+# subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我的名字叫雷沁欣，以下是关于我的一些信息^_^:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 1997年9月中国制造，目前低负荷运行中
+- 希望我可以和大家成为朋友，也希望你们不要不识抬举
 
-What else do you need?
+你还想知道啥?
 
-### My story
+### 我的故事
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+可惜这里的空间太小，写不下来。如果你想了解更多关于我的故事，欢迎戳我~
